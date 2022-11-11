@@ -1,1 +1,1 @@
-# password-generator-and-strenght-check
+# password-generator-and-strength-check
